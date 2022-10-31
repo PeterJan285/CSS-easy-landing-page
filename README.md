@@ -1,12 +1,16 @@
-# 🛠 Single landing page challenge
+# 🛠 CSS - Easy landing page
 
 # 🔗 [Live Preview](https://compassionate-kirch-4a4ecb.netlify.app/)
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out my one of many practice projects.
+- An early landing page project where I practice flexbox and page responsiveness. 
 
-- In this challenge I build a basic single landing page using basic HTML and CSS, it is also responsive on all devices
+- [Frontend Mentor](https://www.frontendmentor.io) is a website that challenges new developers to improve their coding skills by building realistic projects, it provides all the building materials.
 
-[Frontend Mentor](https://www.frontendmentor.io/profile/PeterJan285) is a community that helps programmers improve their coding skills by building realistic projects as challenges.
+### Languages and features 👨‍💻 
+
+- CSS: variables, flexbox, responsiveness, backgroung properties.
+
+Thanks for checking out my projects.
